@@ -4,7 +4,7 @@ This FAST API application allows you to get the gene information from a mysql da
 
 Visit http://localhost:8000/docs  to access the api to get gene information using the gene symbol.
 
-![screen_gif](https://imgur.com/0UZTMLv)
+![screen_gif](https://imgur.com/0UZTMLv.gif)
 
 ### Getting started
 To clone, 
