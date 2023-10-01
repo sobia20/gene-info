@@ -7,3 +7,12 @@ services:
       MYSQL_DATABASE: GeneDatabase
     ports:
       - "3306:3306"
+  fastapi:
+    build: ./gene-info
+    image: gene-info:latest
+    container_name: gene-fast-app
+    restart: always
+    ports:
+      - "8000:8000"
+    expose:
+      - 8000

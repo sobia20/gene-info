@@ -1,6 +1,6 @@
 user: 'root'
 password: 'mysql'
-host: '127.0.0.1'
+host: 'mysql-db'
 port: 3306
 database: 'GeneDatabase'
 dump_file_path: './test-data.sql'
