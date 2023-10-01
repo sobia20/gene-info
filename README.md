@@ -9,8 +9,8 @@ Visit http://localhost:8000/docs  to access the api to get gene information usin
 ### Getting started
 To clone, 
 ```
-git clone 
-cd clone
+git clone https://github.com/sobia20/gene-info.git
+cd gene-info
 ```
 
 To start the application, 
